@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadhossein Malekpour.
-- 👀 I’m interested in Artificial intelligence and Software Engineering.
+- 👀 I’m interested in Artificial Intelligence and Software Engineering.
 - 🌱 I’m currently learning Deep Learning algorithms.
 - 📫 How to reach me: mohammadhossein.malekpour@gmail.com
 
